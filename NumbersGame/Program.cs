@@ -1,4 +1,10 @@
-﻿namespace NumbersGame
+﻿
+
+// Rasmus Glasell Johansson SUT23
+
+
+
+namespace NumbersGame
 {
     internal class Program
     {
